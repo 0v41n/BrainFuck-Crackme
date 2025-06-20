@@ -8,4 +8,7 @@ A simple CrackMe written in Brainfuck, just for fun. The entire source code is l
 
 Maybe one day I'll write the writeup...
 
+Note: I tested this challenge using the following interpreter: https://mitxela.com/other/brainfuck
+
 ![image](https://media1.tenor.com/m/7EhQ5gueCnoAAAAd/brain-damage-cat.gif)
+
